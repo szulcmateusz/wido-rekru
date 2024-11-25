@@ -1,0 +1,12 @@
+{
+    "name": "mateuszszulc/task_widoczni",
+    "authors": [
+        {
+            "name": "szulcmateusz",
+            "email": "tibimeti@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.24"
+    }
+}
